@@ -14,8 +14,8 @@ A Streamlit web application that lets you **upload multiple PDF documents** and 
 
 ## 📸 Demo
 ![Screenshot (14)](https://github.com/user-attachments/assets/00dbba16-016f-4dca-84c7-cd52b0d2ff32)
-
-
+![Screenshot (15)](https://github.com/user-attachments/assets/99b54383-b6ec-4c4a-b09c-0a010f9c4460)
+![Screenshot (16)](https://github.com/user-attachments/assets/31900af0-5ccf-42b1-a8f4-de91febb3f06)
 
 ## 🛠️ Tech Stack
 
