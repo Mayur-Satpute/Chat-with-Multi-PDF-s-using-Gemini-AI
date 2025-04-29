@@ -13,8 +13,9 @@ A Streamlit web application that lets you **upload multiple PDF documents** and 
 - 🎨 Clean and responsive Streamlit UI.
 
 ## 📸 Demo
+![Screenshot (14)](https://github.com/user-attachments/assets/00dbba16-016f-4dca-84c7-cd52b0d2ff32)
 
-Coming Soon! (You can add screenshots or a Loom video link here)
+
 
 ## 🛠️ Tech Stack
 
