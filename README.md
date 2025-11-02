@@ -82,6 +82,6 @@ streamlit run app.py
 ## 🧑‍🎓 Author
 
 **Mayur Satpute**  
-Aspiring Frontend & AI Developer  
+Aspiring Python Devloper 
 [LinkedIn](https://www.linkedin.com/in/mayur7pute) | [GitHub](https://github.com/Mayur-Satpute)
 
